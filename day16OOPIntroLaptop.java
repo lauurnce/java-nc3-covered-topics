@@ -27,4 +27,7 @@ public class Laptop {
     public void toEditVideos(){
         
     }
+    public void toVibeCode(){
+
+    }    
 }
