@@ -11,4 +11,12 @@ package com.joysistvi.oopactivity.day25;
  */
 public class OuterPlanet extends SolarSystem {
     
+    double sizeInDiameter; 
+    int numberOfMoons; 
+    
+    public void displayOuterPlanet(){
+        String type = "Outer Planet"; 
+        System.out.println(type);
+    }
+   
 }
