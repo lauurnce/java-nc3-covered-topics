@@ -11,4 +11,12 @@ package com.joysistvi.oopactivity.day25;
  */
 public class InnerPlanet extends SolarSystem {
     
+    double distanceFromSun;
+    double surfaceTemperature; 
+    
+    public void displayInnerPlanet(){
+        String type = "Inner Planet"; 
+        System.out.println(type);
+    }
+    
 }
