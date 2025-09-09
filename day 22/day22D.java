@@ -3,12 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.joysitvi.inheritance.day25;
+package com.joysistvi.methods.day22B;
 
-/**
- *
- * @author Admin
- */
-public class Subaru {
-    
+import com.joysistvi.methods.day22A.A;
+
+
+public class D{
+    public static void main(String[] args) {
+      A.sum();
+      
+    }
 }
